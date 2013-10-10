@@ -1,0 +1,23 @@
+commit 207f543b2e03cb4ebb2660374938ea7d2eb1ea74
+Author: Yoann Bescher-Leblanc <yoann.bescher-leblanc@laposte.net>
+Date:   Thu Oct 10 15:04:23 2013 +0200
+
+    "display copyright"
+
+commit 8492ccbb0bad9467e7b0e8b389dee9e640d9ad53
+Author: Yoann Bescher-Leblanc <yoann.bescher-leblanc@laposte.net>
+Date:   Thu Oct 10 15:01:30 2013 +0200
+
+    "Add file header"
+
+commit 8c1ed9de836bbb14ea38392f1241cf8244c621db
+Author: Yoann Bescher-Leblanc <yoann.bescher-leblanc@laposte.net>
+Date:   Thu Oct 10 14:57:33 2013 +0200
+
+    "Add build time"
+
+commit a5cd411777c4c523d16b2dcc85246e0da206dd40
+Author: Yoann Bescher-Leblanc <yoann.bescher-leblanc@laposte.net>
+Date:   Thu Oct 10 14:53:22 2013 +0200
+
+    "Initial commit"
